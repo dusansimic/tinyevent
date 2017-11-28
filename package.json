@@ -1,0 +1,30 @@
+{
+  "name": "tinyevent",
+  "version": "0.0.1",
+  "description": "Tiny event emitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusansimic/tinyevent.git"
+  },
+  "keywords": [
+    "tiny",
+    "small",
+    "simple",
+    "fast",
+    "event",
+    "events",
+    "emitter",
+    "emit",
+    "listen"
+  ],
+  "author": "Dušan Simić <dusan.simic1810@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dusansimic/tinyevent/issues"
+  },
+  "homepage": "https://github.com/dusansimic/tinyevent#readme"
+}
