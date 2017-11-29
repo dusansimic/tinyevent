@@ -1,4 +1,4 @@
-class TinyEvent {
+class YoctoEvent {
 	constructor() {
 		this._events = new Map();
 	}
@@ -35,4 +35,4 @@ class TinyEvent {
 	}
 }
 
-module.exports = new TinyEvent();
+module.exports = new YoctoEvent();
